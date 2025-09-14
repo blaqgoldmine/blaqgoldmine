@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @blaqgoldmine
-- 👀 I’m interested in DevSecOps|Cybersecurity|QA testing.
+- 👀 I’m interested in IT Security|Networking|Data Analysis.
 - 🌱 I’m currently learning Information Technology, Security.
-- 💞️ I’m looking to collaborate on Devops&&Cybersecurity
-- 📫 You can reach me on https://www.likedin/in/yemilabodey@gmail.com | yemilabodey@outlook.com | 3042318718
+- 💞️ I’m looking to collaborate on IT Security
+- 📫 You can reach me on https://www.linkedin.com/in/samuelsolabodey| samuel_olabodey@outlook.com | 3042318718
 - 😄 Pronouns: he|him|his
-- ⚡ Fun fact: I love to hangout with cool folks alot.
+- ⚡ Fun fact: I love travels, nature and people.
 
 <!---
 blaqgoldmine/blaqgoldmine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
