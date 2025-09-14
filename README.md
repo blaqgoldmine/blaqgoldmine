@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blaqgoldmine
-- 👀 I’m interested in IT Security|Networking|Data Analysis.
+- 👀 I’m interested in IT Security | Networking |Data Analysis.
 - 🌱 I’m currently learning Information Technology, Security.
 - 💞️ I’m looking to collaborate on IT Security
 - 📫 You can reach me on https://www.linkedin.com/in/samuelsolabodey| samuel_olabodey@outlook.com | 3042318718
